@@ -1,5 +1,10 @@
 title: K B SREE LAKSHMY
-logo: /assets/laa.png
+
+logo: 
+  path: /assets/laa.png
+  width: 150
+  height: auto
+
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
