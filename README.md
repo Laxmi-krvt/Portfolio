@@ -32,4 +32,4 @@
 - Built a fall detection system using mmWave radar and STM32, reducing false alerts by 25%.
 - Integrated cloud-based alerts for real-time assistance and health monitoring
 
-![icon](/assets/img/1.jpg)
+![Elderly Care System](/assets/1.jpg)
