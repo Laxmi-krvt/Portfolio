@@ -25,7 +25,7 @@
 - Leveraged deep learning models for object detection, optimizing inference speed by 30% through hardware
  acceleration 
 
-![yolo pynq-z2](/assets/2.png)
+<img src="/assets/2.png" alt="yolo pynq-z2" width="300"/>
 
 ### Non-wearable fall detection system for elderly care
 
