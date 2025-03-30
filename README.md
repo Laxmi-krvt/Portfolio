@@ -25,11 +25,11 @@
 - Leveraged deep learning models for object detection, optimizing inference speed by 30% through hardware
  acceleration 
 
-![yolo pynq-z2](/assets/img/eeg_band_discovery.jpeg)
+![yolo pynq-z2](/assets/2.png)
 
 ### Non-wearable fall detection system for elderly care
 
 - Built a fall detection system using mmWave radar and STM32, reducing false alerts by 25%.
 - Integrated cloud-based alerts for real-time assistance and health monitoring
 
-![icon](/assets/img/bike_study.jpeg)
+![icon](/assets/img/1.jpeg)
