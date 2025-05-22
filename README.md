@@ -1,9 +1,9 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# K B SREE LAKSHMY
+#### Technical Skills: Python, C, Verilog, Snowflake, MATLAB
 
 ## Education
-- B-tech in Electronics and Communication | Govt. Model Engineering College (_ongoing_)								       		
+- B-tech in Electronics and Communication | Govt. Model Engineering College (_2025_)
+- Minor Degree in Python with Machine Learning							       		
 - Physics,Chemistry,Math,CS	| Navy Children School (_may 2020_)	 			        	
 
 
